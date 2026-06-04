@@ -50,7 +50,7 @@ Every topic includes:
 | ------ | ------------ |
 | ✅      | Variables    |
 | ✅      | Data Types   |
-| ⬜      | Input Output |
+| ✅      | Input Output |
 | ⬜      | Operators    |
 | ⬜      | Conditions   |
 | ⬜      | Loops        |
